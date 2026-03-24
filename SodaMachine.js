@@ -31,6 +31,7 @@ class SodaMachine {
     this.sodas.splice(index, 1);
     return soda;
   }
+  // я пишу тут что бы я могла сделать норм пул реквест
 }
 
 module.exports = SodaMachine;
